@@ -1,3 +1,6 @@
 [submodule "twelve_factor_app_framework"]
 	path = twelve_factor_app_framework
 	url = git@github.com:Evergreenies/twelve_factor_app_framework.git
+[submodule "http_client"]
+	path = http_client
+	url = git@github.com:Evergreenies/http_client.git
